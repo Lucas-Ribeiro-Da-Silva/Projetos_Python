@@ -1,1 +1,9 @@
+#arquivos
+
 *.pyc
+
+#diretórios
+
+venv
+
+__pycache__
