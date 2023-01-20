@@ -2,6 +2,10 @@
 
 *.pyc
 
+.env
+
+desktop.ini
+
 #diretórios
 
 venv
