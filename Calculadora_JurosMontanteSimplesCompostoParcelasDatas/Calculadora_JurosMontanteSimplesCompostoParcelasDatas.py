@@ -1,3 +1,8 @@
+"""
+instalar:
+pip install python-dateutil types-python-dateutil
+"""
+
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 
