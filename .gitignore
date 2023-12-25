@@ -1,0 +1,13 @@
+#arquivos
+
+*.pyc
+
+.env
+
+desktop.ini
+
+#diretórios
+
+venv
+
+__pycache__
